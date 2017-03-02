@@ -1,3 +1,5 @@
-<resources>
+<resources xmlns:xliff="http://schemas.android.com/tools">
     <string name="app_name">DidYouFeelIt</string>
+    <string name="perceived_strength">Perceived Strength</string>
+    <string name="num_of_people_felt_it"><xliff:g if="number" example="10">%s</xliff:g> people felt it</string>
 </resources>
